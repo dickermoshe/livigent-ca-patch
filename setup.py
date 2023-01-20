@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="livigent-ca-patch",
-    version='0.1.0',
+    version='0.2.0',
     author="Moshe Dicker",
     author_email='dickermoshe@gmail.com',
     description="Make requests, pip and dependant packages work on devices with Livigent.",
